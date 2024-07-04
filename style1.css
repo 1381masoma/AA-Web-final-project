@@ -1,0 +1,135 @@
+
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8-K8N16LRGfsHmnP5cvqjc0Dvn3Nk_Rp_5A&s")
+    
+    
+  }
+  body{
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+main{
+    background-color:whitesmoke;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    z-index: 1;
+    
+}
+nav{ 
+
+    background-color:navy;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-right: 50px;
+    display: flex;
+    gap:30px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    justify-content: flex-end;
+}
+nav a{
+    padding-left: 20px;
+    color: white;
+}
+
+.info{
+    width: 200px;
+    background-color:white;
+    gap: 20px;
+    height: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8px;
+    text-align: center;
+
+}
+.hol{
+    display: flex;
+    gap: 20px;
+}
+.input{
+    color:navy;
+
+}
+.more{
+    display: flex;
+    gap:30px;
+    
+}
+.l{
+    margin-left: 50px;
+}
+h1{
+    color: navy;
+}
+footer{
+    background-color: navy;
+    color: white;
+    text-align: center;
+    width: 100%;
+    margin-top: 200px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px; }
+    button {
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        border-radius: 50%;
+        background-color: navy;
+        color: white;
+        margin-top: 20px;
+        margin-left: 50px;
+        
+        width: 300px;
+    }
+    input[type=text]{
+        width: 300px;
+        height: 20px;
+        margin-top: 20px;
+        
+    }
+    textarea{
+        width: 300px;
+        height: 50px;
+        margin-left: 20px;
+    }
+    .b{
+        margin-top: 10px;
+    
+    }
+    img{
+        width: 50px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    
+    }
+    .rop{
+        display: flex;
+        margin-left: 500px;
+        margin-top: -80px;
+        
+    }
+    .n{
+        width: 20px;
+
+    }
+    .m{
+        margin-left:30px;
+    }

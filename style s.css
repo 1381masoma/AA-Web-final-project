@@ -1,0 +1,21 @@
+body{
+    background-color: navy;
+}
+h1{
+    color:navy;
+    text-align: center;
+    padding-top: 70px;
+}
+h2{
+    color: navy;
+    text-align: center;
+}
+main{
+    background-color: whitesmoke;
+    width: 500px;
+    height: 500px;
+    color: navy;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 8%;
+}
